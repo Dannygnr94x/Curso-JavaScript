@@ -65,7 +65,7 @@ console.log(5 < 10 && 15 < 20 || 30 > 40)
 console.log(!(5 > 10 && 15 > 20))
 console.log(!(5 > 10 || 15 > 20))
 
-// Operadores terrarios
+// Operadores ternarios
 
 const isRaining = true
 
