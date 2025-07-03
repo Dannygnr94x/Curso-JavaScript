@@ -9,7 +9,7 @@ console.log(a - b) //resta
 console.log(a * b) //multiplicacion
 console.log(a / b) //division
 
-console.log(a % b) //modulo
+console.log(a % b) //modulo (resto division)
 console.log(a ** b) //Exponente
 
 a++ //incrementar +1

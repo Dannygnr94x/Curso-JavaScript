@@ -1,26 +1,26 @@
 //var
 
-var helloworld = "Helow, JavaScript"
-console.log(helloworld)
+var helloWorld = "Helow, JavaScript"
+console.log(helloWorld)
 
-helloworld = "Hola de nuevo JavaScript"
-console.log(helloworld)
+helloWorld = "Hola de nuevo JavaScript"
+console.log(helloWorld)
 
 //let
 
-let helloworld2= "hola javascript"
-console.log(helloworld2)
+let helloWorld2= "hola javascript"
+console.log(helloWorld2)
 
-helloworld2= "hola de nuevo javascript"
-console.log(helloworld2)
+helloWorld2= "hola de nuevo javascript"
+console.log(helloWorld2)
 
 //const
 
-const helloworld3= "hola javascript"
-console.log(helloworld3)
+const helloWorld3= "hola javascript"
+console.log(helloWorld3)
 
 /*
     error
 helloworld3= "hola de nuevo javascript"
-console.log(helloworld3)
+console.log(helloWorld3)
 */
