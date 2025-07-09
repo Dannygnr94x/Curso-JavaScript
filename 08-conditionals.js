@@ -30,8 +30,8 @@ else{
 }
 
 // Operadores ternatios
-
-const message = age == 30 ? "La edad es 30" : "La edad no es 30"
+let age2 = 10
+const message = age2 == 30 ? "La edad es 30" : "La edad no es 30"
 
 console.log(message)
 

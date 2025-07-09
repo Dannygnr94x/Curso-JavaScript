@@ -63,4 +63,8 @@ let mySet2 = myArray3
 myMap.set("number beast", mySet2)
 console.log(myMap)
 
+const frutas = ["manzana", "pera", "plátano"];
+for (const fruta of frutas) {
+  console.log(fruta);
+}
 

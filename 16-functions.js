@@ -19,6 +19,8 @@ function myFuncWithParams(name){
 myFuncWithParams("Daniel")
 myFuncWithParams("Lucas")
 
+// Funciones anónimas
+
 const myFunc2 = function(name) {
     console.log(`Hola, ${name}`)
 }
