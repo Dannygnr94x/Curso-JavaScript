@@ -60,7 +60,7 @@ let myArray3 = [666]
 console.log(myArray3)
 let mySet2 = myArray3
 
-myMap.set(mySet2, "number beast")
+myMap.set("number beast", mySet2)
 console.log(myMap)
 
 
